@@ -1,0 +1,4 @@
+Options -indexes 
+<FilesMatch "\.(js|css)$">
+Header set Cache-Control "max-age=172800, proxy-revalidate"
+</FilesMatch>
