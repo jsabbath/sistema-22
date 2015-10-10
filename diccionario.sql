@@ -1,5 +1,7 @@
 /*
 
+http://parasitovirtual.com/category/cursos-y-articulos/ingenieria-del-software/analisis-y-diseno-orientados-a-objetos-con-uml/
+
 
 Documentacion de procedimientos almacenados
 
